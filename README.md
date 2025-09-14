@@ -206,6 +206,7 @@ This project demonstrates the end-to-end SQL workflow for data analysis, coverin
 2. Data cleaning
 3. Exploratory data analysis
 4. Business-driven SQL queries
+
 The insights provide a foundation for data-driven business decisions by understanding sales patterns, customer behavior, and product performance.
 
 ## How to Use
